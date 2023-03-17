@@ -388,3 +388,6 @@ FodyWeavers.xsd
 
 # MacOS
 .DS_Store
+
+# workload
+workload/
